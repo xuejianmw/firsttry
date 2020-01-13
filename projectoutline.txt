@@ -1,0 +1,10 @@
+goal: a calculator for the best proportion of basic lands in MTG.
+
+v1: a calculator for the best proportion of basic lands in 2-color limited 40-card deck.
+principal: the highest probability to cast each card on the hand with right number of lands.
+core algebra: find a number of color 1 x that either increase or decrease its number will cause a decrease in mean probability
+outline:
+1. input the mana cost of the cards
+2. use the proportion to get a initial value of lands
+3. use probability to find the final value of lands
+4. output
